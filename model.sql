@@ -1,3 +1,6 @@
+--Database
+create database d35;
+
 -- ROUTES
 create table routes (
 	route_id serial not null primary key,
